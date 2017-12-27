@@ -1,0 +1,18 @@
+{
+	"normative":"C",
+	"prefixType":{
+		"cod":["smallint", "int", "varchar(5)"],
+		"des":["varchar", "string"],
+		"fec":["timestamp"],
+		"hms":["timestamp"],
+		"tim":["timestamp"],
+		"imp":["decimal","Float", "Double"]
+		},
+	"fixcolname":{
+		"aud_usuario":"varchar(8)",
+		"aud_fec":"timestamp",
+		"aud_tim":"timestamp"
+		},
+	"symSep":"_", 
+	"maxLength":26
+}

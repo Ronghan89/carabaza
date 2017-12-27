@@ -1,0 +1,8 @@
+{
+	"normative":"T",
+	"symFijo":"t",
+	"codProject":["EVA", "EXCEP", "GMARK", "GOB", "GSDS","INFOR", "NCASH", "SSTT", "SWIFT", "TBGEN", "VISOR"],
+	"tbPrefijo":["R", "M", "O"],
+	"symSep":"_",
+	"maxLength":23 
+}

@@ -1,0 +1,6 @@
+{
+	"normative":"D", 
+	"dbPrefijo":["RD","MD","OD"], 
+	"symSep":"_", 
+	"maxLength":12 
+} 
